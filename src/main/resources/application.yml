@@ -1,0 +1,8 @@
+ qywx:
+  corp-id: xxx
+  application-list:
+    - secret: xxx
+      agentId: 1000002
+      application-name: push-bot
+  url: https://qyapi.weixin.qq.com
+  public-path: cgi-bin
